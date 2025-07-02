@@ -1,0 +1,29 @@
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #0e0e0e;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+header {
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    padding: 50px 20px;
+}
+.cta {
+    background-color: #ffffff;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+section {
+    margin-top: 50px;
+}
+form input, form button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
